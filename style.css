@@ -1,0 +1,23 @@
+h1,h2 {
+
+	color: blueviolet;
+            font-family:sans-serif, serif;
+            font-size: 40px;
+            font-weight: bold;
+            text-decoration: underline;
+            border-top: dashed;
+}
+ p {
+            color: orange;
+            font-family: sans-serif;
+            
+        }
+        li {
+            color: orange;
+            font-family: sans-serif;
+            list-style: square;
+        }
+.addborder {
+    border: dashed;
+    color: blueviolet;
+}
